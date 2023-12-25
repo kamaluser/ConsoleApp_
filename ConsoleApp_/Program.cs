@@ -111,8 +111,6 @@ namespace ConsoleApp_
 
             #endregion
 
-            #region Task5
-
             // 5. Verilmiş 2 ədəd üzərində verilmiş simvola uyğun əməliyyat edən proqram. Simvol +,-,* və ya / olmalıdır, əks halda simvolu yenidən daxil edilməsi istənilməlidir.(Misaçün simvol * olarsa verilmiş 2 ədəd vurulacaq və nəticəsi göstəriləcək)
 
             #region Task5
